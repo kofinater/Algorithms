@@ -1,0 +1,7 @@
+What (if anything) is wrong with each of the following statements?
+
+a. if (a > b) then c=0;
+	 java does not have a 'then' keyword so 'then' should
+be ommitted
+
+b. if a < b {c =
