@@ -1,0 +1,6 @@
+1.1.4
+
+a. java does not have a 'then' keyword so 'then' should be ommitted
+b. 'a > b should be in parentheses
+c. No wrong syntax
+d. A semi-colon is needed after 'c = 0'
