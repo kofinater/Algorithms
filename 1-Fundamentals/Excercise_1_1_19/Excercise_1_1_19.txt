@@ -1,0 +1,1 @@
+54 is the last value that takes less then an hour to compute on my computer
